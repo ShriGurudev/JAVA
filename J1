@@ -1,2 +1,3 @@
 public interface add{
 }
+public void subtract
