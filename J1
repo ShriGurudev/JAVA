@@ -2,3 +2,4 @@ public interface add{
 }
 public init
 public great
+public void run(){}
