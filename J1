@@ -3,3 +3,4 @@ public interface add{
 public void subtract
 public void divide(){
 }
+public void walk
